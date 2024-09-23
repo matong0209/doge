@@ -12,5 +12,5 @@
   - [陈科瑞](https://github.com/EricLink1)
   - [李晓东](https://github.com/kleinPerman)
   - [刘瑞翔](https://github.com/lrx-joker)
-  - [田羽](https://github.com/2432096270@qq.com)
+  - [田羽](https://github.com/2432096270)
 
